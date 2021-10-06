@@ -1,3 +1,3 @@
-# My Game is Cool!
+# Basic Vanilla JavaScript Flappy Bird Game
 
-Make sure you give it a good description here...
+More of a flappy block, but it's a work in process.
